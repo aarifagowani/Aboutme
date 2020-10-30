@@ -19,7 +19,7 @@ h1 {
     margin-right: auto;
     border-radius: 50%;
     display: block;
-    height: 200px
+    height: 200px;
     width: 50%;
     overflow: hidden; 
     transition: .5s ease;
