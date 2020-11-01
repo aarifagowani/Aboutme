@@ -4,7 +4,6 @@ h1 {
     background-color: white;
     font-size: 45px;
 }
-
 .clickable {
     position: relative;
     width: 28%;
@@ -89,6 +88,18 @@ a[title~="Email"] {
     margin-right: 10px;
     text-decoration: none;
     color: #0072C6;
+}
+.download {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black;
+    font-size: 20px; 
+}
+a.pdf {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #ff000d;
+    font-size: xx-large;
 }
 h3{
     text-align: left;
