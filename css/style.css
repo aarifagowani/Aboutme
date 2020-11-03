@@ -12,6 +12,7 @@ h1 {
     margin-right: auto;
 }
 
+/* resize the shape of the image to round */
 .image {
     opacity: 1;
     margin-left: auto;
@@ -38,6 +39,7 @@ h1 {
 .clickable:hover .middle {
     opacity: 1;
 }
+/* Change the resume clickable text */
 .text {
     background-color: black;
     color: white;
@@ -117,18 +119,10 @@ h3{
 
 .flex-container div {
     flex: 1;
-    padding: 20px; /*is good */
+    padding: 20px; /* don't change the padding */
 }
-.dalai{
-    height: 370px;
-}
-.alchemist{
-    height: 370px;
-}
-.yourself{
-    height: 370px;
-}
-.food{
+/* books picture size */
+.dalai, .alchemist, .yourself, .food{
     height: 370px;
 }
 
